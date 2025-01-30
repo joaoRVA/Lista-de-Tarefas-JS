@@ -19,13 +19,9 @@ Este projeto é uma aplicação web simples para gerenciar uma lista de tarefas.
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/lista-de-tarefas.git
+   git clone https://github.com/joaoRVA/ToDoJavaScript.git
    ```
-2. Acesse o diretório do projeto:
-   ```sh
-   cd lista-de-tarefas
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
+2. Abra o arquivo `index.html` no seu navegador.
 
 ## 📂 Estrutura do Projeto
 ```
@@ -39,7 +35,8 @@ Este projeto é uma aplicação web simples para gerenciar uma lista de tarefas.
 ```
 
 ## 📸 Capturas de Tela
-*(Adicione aqui imagens do projeto rodando, se possível.)*
+![image](https://github.com/user-attachments/assets/777b5874-8714-4088-bab9-e68df7eec75e)
+
 
 ## ✍️ Autor
 Desenvolvido por **[Seu Nome]**.
