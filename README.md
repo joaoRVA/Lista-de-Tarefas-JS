@@ -35,12 +35,21 @@ Este projeto é uma aplicação web simples para gerenciar uma lista de tarefas.
 ```
 
 ## 📸 Capturas de Tela
-Lista de Tarefas (Fitro: Todos)
+Lista de Tarefas (Filtro: Todos)
 ![image](https://github.com/user-attachments/assets/777b5874-8714-4088-bab9-e68df7eec75e)
+
+Lista de Tarefas (Filtro: Feitos)
+![image](https://github.com/user-attachments/assets/a26ed814-2407-4ab7-a040-13fb315b3ccc)
+
+Lista de Tarefas (Filtro: Pendentes)
+![image](https://github.com/user-attachments/assets/e6e9766c-c291-4bae-a929-33cc3406f7e6)
+
+Dados salvos na LocalStorage
+![image](https://github.com/user-attachments/assets/f5583cd3-0f4e-4972-a158-b51cbcb0804e)
 
 
 ## ✍️ Autor
-Desenvolvido por **[Seu Nome]**.
+Desenvolvido por **[João Vítor Rodrigues]**.
 
 Se gostou do projeto, não se esqueça de deixar uma ⭐ no repositório! 🚀
 
