@@ -35,6 +35,7 @@ Este projeto é uma aplicação web simples para gerenciar uma lista de tarefas.
 ```
 
 ## 📸 Capturas de Tela
+Lista de Tarefas (Fitro: Todos)
 ![image](https://github.com/user-attachments/assets/777b5874-8714-4088-bab9-e68df7eec75e)
 
 
